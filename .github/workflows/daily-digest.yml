@@ -1,0 +1,60 @@
+name: daily digest
+
+# Every morning (01:30 UTC = 08:30 WIB): run the scraper, score the postings against
+# config.example.yaml and write the digest in dry-run mode to data/latest-digest.txt, so the
+# repo always shows a live result. Nothing is sent.
+#
+# To make it send for real from a fork: add TELEGRAM_BOT_TOKEN and TELEGRAM_CHAT_ID as repository
+# secrets and the "send" step below runs. The SQLite store is kept between runs with actions/cache,
+# so each posting reaches Telegram once.
+
+on:
+  schedule:
+    - cron: "30 1 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    env:
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -e .
+
+      - name: dry-run digest into data/latest-digest.txt
+        run: python -m jobs_digest -c config.example.yaml --dry-run | tee data/latest-digest.txt
+
+      - name: commit the live sample
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/latest-digest.txt
+          git diff --cached --quiet || git commit -m "data: daily digest $(date -u +%F)"
+          git push
+
+      - name: restore the store from the last run
+        if: env.TELEGRAM_BOT_TOKEN != ''
+        uses: actions/cache/restore@v4
+        with:
+          path: digest.sqlite
+          key: digest-store-${{ github.run_id }}
+          restore-keys: digest-store-
+
+      - name: send
+        if: env.TELEGRAM_BOT_TOKEN != ''
+        run: python -m jobs_digest -c config.example.yaml
+
+      - name: save the store for the next run
+        if: env.TELEGRAM_BOT_TOKEN != '' && always()
+        uses: actions/cache/save@v4
+        with:
+          path: digest.sqlite
+          key: digest-store-${{ github.run_id }}

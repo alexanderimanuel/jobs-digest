@@ -1,0 +1,90 @@
+[
+  {
+    "source": "weworkremotely",
+    "title": "Senior Python Developer (CRM - AI/LLM)",
+    "company": "Emerging Travel Group",
+    "location": "Europe Only",
+    "salary": "",
+    "tags": ["Back-End Programming", "Full-Time"],
+    "posted_at": "2026-10-15",
+    "url": "https://weworkremotely.com/remote-jobs/emerging-travel-group-senior-python-developer-crm-ai-llm",
+    "description": "We build integrations between our CRM and LLM services. You will write Python, design APIs and automate manual processes."
+  },
+  {
+    "source": "remoteok",
+    "title": "Automation Engineer (n8n, Zapier)",
+    "company": "Flowline",
+    "location": "Worldwide",
+    "salary": "$60,000 - $80,000",
+    "tags": ["automation", "n8n", "python"],
+    "posted_at": "2026-10-16",
+    "url": "https://remoteOK.com/remote-jobs/remote-automation-engineer-flowline-1137600?ref=feed",
+    "description": "Build and maintain n8n and Zapier workflows for clients. Document every workflow."
+  },
+  {
+    "source": "remotive",
+    "title": "Technical Writer, Developer Docs",
+    "company": "Docsy",
+    "location": "Anywhere",
+    "salary": "",
+    "tags": ["Writing"],
+    "posted_at": "2026-10-14",
+    "url": "https://remotive.com/remote-jobs/writing/technical-writer-developer-docs-2001",
+    "description": "Own the API documentation for our Python SDK. Async team, no meetings before noon."
+  },
+  {
+    "source": "remoteok",
+    "title": "Site Reliability Engineer",
+    "company": "Pagerly",
+    "location": "USA Only",
+    "salary": "$150,000",
+    "tags": ["devops", "python", "kubernetes"],
+    "posted_at": "2026-10-16",
+    "url": "https://remoteok.com/remote-jobs/remote-site-reliability-engineer-pagerly-1137601",
+    "description": "Python automation for infrastructure. Weekly on-call rotation."
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Account Executive, Retail",
+    "company": "Shoply",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": ["Sales", "Full-Time"],
+    "posted_at": "2026-10-16",
+    "url": "https://weworkremotely.com/remote-jobs/shoply-account-executive-retail",
+    "description": "Maintain accounts and grow retail partnerships."
+  },
+  {
+    "source": "remotive",
+    "title": "Python Backend Engineer",
+    "company": "OldCo",
+    "location": "Worldwide",
+    "salary": "",
+    "tags": ["python"],
+    "posted_at": "2026-09-01",
+    "url": "https://remotive.com/remote-jobs/software-dev/python-backend-engineer-1500",
+    "description": "Python, APIs, integration work."
+  },
+  {
+    "source": "remoteok",
+    "title": "QA Automation Engineer (Playwright)",
+    "company": "Testly",
+    "location": "Worldwide",
+    "salary": "",
+    "tags": ["qa", "playwright", "pytest"],
+    "posted_at": "",
+    "url": "https://remoteok.com/remote-jobs/remote-qa-automation-engineer-testly-1137602",
+    "description": "Write end-to-end tests with Playwright and pytest for our web app."
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Head of People",
+    "company": "Peopleful",
+    "location": "Anywhere in the World",
+    "salary": "",
+    "tags": ["HR", "Full-Time"],
+    "posted_at": "2026-10-15",
+    "url": "https://weworkremotely.com/remote-jobs/peopleful-head-of-people",
+    "description": "Lead HR for a 40 person remote team."
+  }
+]

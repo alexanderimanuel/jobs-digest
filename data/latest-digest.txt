@@ -1,0 +1,28 @@
+Jobs digest 2026-10-18: 5 new matches (47 postings scanned, 5 matched your profile)
+
+ 1. Senior Python Developer (CRM - AI/LLM)
+    Emerging Travel Group · weworkremotely · 2026-10-15 · Anywhere in the World
+    score 15: python (title) +6, automation +3, llm (title) +4, ai (title) +2
+    https://weworkremotely.com/remote-jobs/emerging-travel-group-senior-python-developer-crm-ai-llm
+
+ 2. Remote AI Trainers (Generalist and Python Coding Experts)
+    AITrainers · weworkremotely · 2026-10-14 · Anywhere in the World
+    score 9: python (title) +6, ai (title) +2, contract +1
+    https://weworkremotely.com/remote-jobs/aitrainers-remote-ai-trainers-generalist-and-python-coding-experts
+
+ 3. APAC Python
+    Kodland · remoteok · 2026-10-16 · Worldwide
+    score 6: python (title) +6
+    https://remoteOK.com/remote-jobs/remote-apac-python-kodland-1137534
+
+ 4. Software Engineer AI Coding Tasks
+    Askable · remoteok · 2026-10-17 · Worldwide · $10,000
+    score 5: python +3, ai (title) +2
+    https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538
+
+ 5. Senior Software Engineer II Applied AI
+    Wrapbook · remoteok · 2026-10-15 · Worldwide
+    score 5: python +3, ai (title) +2
+    https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527
+
+[dry run] nothing sent, store digest.sqlite untouched; channels: telegram

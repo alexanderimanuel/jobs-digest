@@ -1,0 +1,34 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "jobs-digest"
+version = "0.1.0"
+description = "Score remote job postings against a YAML profile and send only the new matches to Telegram or email, every day."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Alexander Imanuel Widjanarko", email = "alexanderiw@student.ub.ac.id" }]
+keywords = ["automation", "pipeline", "telegram", "email", "jobs", "sqlite", "yaml"]
+dependencies = [
+    "requests>=2.27",
+    "PyYAML>=6",
+    "remote-jobs-scraper @ git+https://github.com/alexanderimanuel/remote-jobs-scraper.git",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=7"]
+
+[project.scripts]
+jobs-digest = "jobs_digest.cli:main"
+
+[project.urls]
+Homepage = "https://github.com/alexanderimanuel/jobs-digest"
+Author = "https://alexiw.my.id"
+
+[tool.setuptools.packages.find]
+include = ["jobs_digest*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

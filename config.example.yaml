@@ -1,0 +1,76 @@
+# jobs-digest configuration.
+# Copy this file to config.yaml and edit it. Secrets (bot token, SMTP password) never go here:
+# they are read from environment variables, see .env.example.
+
+input:
+  # Where postings come from. Exactly one of the three:
+  #
+  # scraper:  run remote-jobs-scraper in-process (installed from GitHub with this package).
+  #           Same options as its CLI: keywords, sources, since_days, title_only.
+  # path:     a local CSV or JSON file written by `python -m remote_jobs -o jobs.json`
+  # url:      an http(s) URL to such a file, e.g. the scraper's daily snapshot
+  #           https://raw.githubusercontent.com/alexanderimanuel/remote-jobs-scraper/main/data/latest.json
+  scraper:
+    keywords: [ai, llm, automation, python, scrap, integration, "technical writer", qa, documentation]
+    sources: [remoteok, remotive, weworkremotely]
+    since_days: 14
+    title_only: false
+
+profile:
+  # term: weight. Terms match at the start of a word, case-insensitive ("ai" hits "AI-powered", not "retail").
+  # A hit in the title counts title_multiplier times; a hit in tags, company, location or description counts
+  # once. Each term is counted at most once per posting. Score = sum of the hits.
+  keywords:
+    python: 3
+    automation: 3
+    scraping: 3
+    scraper: 3
+    integration: 2
+    api: 1
+    llm: 2
+    ai: 1
+    "technical writer": 4
+    documentation: 2
+    "qa automation": 3
+    "test automation": 3
+    pytest: 2
+    playwright: 2
+    n8n: 3
+    zapier: 2
+    make.com: 2
+    contract: 1
+    async: 1
+  title_multiplier: 2
+
+  # If must_have is not empty, a posting needs at least one of these terms anywhere.
+  must_have: []
+
+  # Any of these anywhere (title, tags, location, description) drops the posting.
+  avoid:
+    - on-call
+    - pair programming
+    - "us only"
+    - "us citizens"
+    - "usa only"
+    - "us-based"
+    - clearance
+    - "time tracker"
+    - hubstaff
+
+  min_score: 5       # drop postings scoring below this (a lone "python" tag is 3, not enough on its own)
+  max_age_days: 7    # drop postings older than this (postings with no date are kept)
+  max_items: 10      # at most this many postings per digest
+
+# SQLite file that remembers what was sent to which channel, so nothing is sent twice.
+store: digest.sqlite
+
+channels:
+  telegram:
+    enabled: true          # needs TELEGRAM_BOT_TOKEN and TELEGRAM_CHAT_ID in the environment
+    # chat_id: "123456"    # optional, overrides TELEGRAM_CHAT_ID
+  email:
+    enabled: false         # needs SMTP_HOST, SMTP_PORT, SMTP_USER, SMTP_PASSWORD in the environment
+    to: you@example.com    # a string or a list
+    from: ""               # defaults to SMTP_USER
+    subject: "{title} {date}: {count} new matches"
+    starttls: true

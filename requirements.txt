@@ -1,0 +1,3 @@
+requests>=2.27
+PyYAML>=6
+remote-jobs-scraper @ git+https://github.com/alexanderimanuel/remote-jobs-scraper.git

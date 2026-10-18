@@ -1,0 +1,33 @@
+input:
+  path: tests/fixtures/postings.json
+
+profile:
+  keywords:
+    python: 3
+    automation: 3
+    integration: 2
+    api: 1
+    llm: 2
+    ai: 1
+    "technical writer": 4
+    documentation: 2
+    "qa automation": 3
+    pytest: 2
+    playwright: 2
+    n8n: 3
+    zapier: 2
+  title_multiplier: 2
+  must_have: []
+  avoid: [on-call, "usa only"]
+  min_score: 4
+  max_age_days: 7
+  max_items: 10
+
+store: ":memory:"
+
+channels:
+  telegram:
+    enabled: true
+  email:
+    enabled: false
+    to: me@example.com
