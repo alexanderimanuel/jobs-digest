@@ -1,14 +1,14 @@
-Jobs digest 2026-10-19: 5 new matches (46 postings scanned, 5 matched your profile)
+Jobs digest 2026-10-20: 6 new matches (43 postings scanned, 6 matched your profile)
 
- 1. Senior Python Developer (CRM - AI/LLM)
-    Emerging Travel Group · weworkremotely · 2026-10-15 · Anywhere in the World
-    score 15: python (title) +6, automation +3, llm (title) +4, ai (title) +2
-    https://weworkremotely.com/remote-jobs/emerging-travel-group-senior-python-developer-crm-ai-llm
+ 1. Senior QA Automation Engineer
+    Proxify AB · weworkremotely · 2026-10-19 · Anywhere in the World
+    score 12: automation (title) +6, qa automation (title) +6
+    https://weworkremotely.com/remote-jobs/proxify-ab-senior-qa-automation-engineer-1
 
- 2. Remote AI Trainers (Generalist and Python Coding Experts)
-    AITrainers · weworkremotely · 2026-10-14 · Anywhere in the World
-    score 9: python (title) +6, ai (title) +2, contract +1
-    https://weworkremotely.com/remote-jobs/aitrainers-remote-ai-trainers-generalist-and-python-coding-experts
+ 2. Senior Backend Developer (Python)
+    Proxify AB · weworkremotely · 2026-10-19 · Anywhere in the World
+    score 6: python (title) +6
+    https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-11
 
  3. APAC Python
     Kodland · remoteok · 2026-10-16 · Worldwide
@@ -20,7 +20,12 @@ Jobs digest 2026-10-19: 5 new matches (46 postings scanned, 5 matched your profi
     score 5: python +3, ai (title) +2
     https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538
 
- 5. Senior Software Engineer II Applied AI
+ 5. Software Engineer, AI Coding Tasks
+    Askable · remotive · 2026-10-17 · Worldwide · $1000 per task
+    score 5: python +3, ai (title) +2
+    https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158
+
+ 6. Senior Software Engineer II Applied AI
     Wrapbook · remoteok · 2026-10-15 · Worldwide
     score 5: python +3, ai (title) +2
     https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527
