@@ -1,31 +1,26 @@
-Jobs digest 2026-10-21: 6 new matches (42 postings scanned, 6 matched your profile)
+Jobs digest 2026-10-22: 5 new matches (43 postings scanned, 5 matched your profile)
 
- 1. Senior QA Automation Engineer
-    Proxify AB · weworkremotely · 2026-10-19 · Anywhere in the World
-    score 12: automation (title) +6, qa automation (title) +6
-    https://weworkremotely.com/remote-jobs/proxify-ab-senior-qa-automation-engineer-1
-
- 2. Senior Backend Developer (Python)
+ 1. Senior Backend Developer (Python)
     Proxify AB · weworkremotely · 2026-10-19 · Anywhere in the World
     score 6: python (title) +6
     https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-11
 
- 3. APAC Python
+ 2. APAC Python
     Kodland · remoteok · 2026-10-16 · Worldwide
     score 6: python (title) +6
     https://remoteOK.com/remote-jobs/remote-apac-python-kodland-1137534
 
- 4. Software Engineer AI Coding Tasks
+ 3. Software Engineer AI Coding Tasks
     Askable · remoteok · 2026-10-17 · Worldwide · $10,000
     score 5: python +3, ai (title) +2
     https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538
 
- 5. Software Engineer, AI Coding Tasks
+ 4. Software Engineer, AI Coding Tasks
     Askable · remotive · 2026-10-17 · Worldwide · $1000 per task
     score 5: python +3, ai (title) +2
     https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158
 
- 6. Senior Software Engineer II Applied AI
+ 5. Senior Software Engineer II Applied AI
     Wrapbook · remoteok · 2026-10-15 · Worldwide
     score 5: python +3, ai (title) +2
     https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527
