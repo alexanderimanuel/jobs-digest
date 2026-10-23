@@ -1,28 +1,38 @@
-Jobs digest 2026-10-22: 5 new matches (43 postings scanned, 5 matched your profile)
+Jobs digest 2026-10-23: 7 new matches (44 postings scanned, 7 matched your profile)
 
- 1. Senior Backend Developer (Python)
+ 1. Sales Development Representative - CRM, Conversational AI & Messaging Automation
+    division50 · weworkremotely · 2026-10-22 · Anywhere in the World
+    score 8: automation (title) +6, ai (title) +2
+    https://weworkremotely.com/remote-jobs/division50-sales-development-representative-crm-conversational-ai-messaging-automation
+
+ 2. Marketing Automation Manager - Canada, Spain, India
+    Storyblok · weworkremotely · 2026-10-22 · Anywhere in the World
+    score 7: automation (title) +6, ai +1
+    https://weworkremotely.com/remote-jobs/storyblok-marketing-automation-manager-canada-spain-india
+
+ 3. Senior Backend Developer (Python)
     Proxify AB · weworkremotely · 2026-10-19 · Anywhere in the World
     score 6: python (title) +6
     https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-11
 
- 2. APAC Python
+ 4. APAC Python
     Kodland · remoteok · 2026-10-16 · Worldwide
     score 6: python (title) +6
     https://remoteOK.com/remote-jobs/remote-apac-python-kodland-1137534
 
- 3. Software Engineer AI Coding Tasks
+ 5. Senior Deployment Engineer with LLM and GPU Infrastructure experience
+    Toptal · weworkremotely · 2026-10-22 · EMEA Only
+    score 5: llm (title) +4, ai +1
+    https://weworkremotely.com/remote-jobs/toptal-senior-deployment-engineer-with-llm-and-gpu-infrastructure-experience
+
+ 6. Software Engineer AI Coding Tasks
     Askable · remoteok · 2026-10-17 · Worldwide · $10,000
     score 5: python +3, ai (title) +2
     https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538
 
- 4. Software Engineer, AI Coding Tasks
+ 7. Software Engineer, AI Coding Tasks
     Askable · remotive · 2026-10-17 · Worldwide · $1000 per task
     score 5: python +3, ai (title) +2
     https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158
-
- 5. Senior Software Engineer II Applied AI
-    Wrapbook · remoteok · 2026-10-15 · Worldwide
-    score 5: python +3, ai (title) +2
-    https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527
 
 [dry run] nothing sent, store digest.sqlite untouched; channels: telegram
