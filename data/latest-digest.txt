@@ -1,4 +1,4 @@
-Jobs digest 2026-10-24: 7 new matches (47 postings scanned, 7 matched your profile)
+Jobs digest 2026-10-25: 5 new matches (50 postings scanned, 5 matched your profile)
 
  1. Sales Development Representative - CRM, Conversational AI & Messaging Automation
     division50 · weworkremotely · 2026-10-22 · Anywhere in the World
@@ -24,15 +24,5 @@ Jobs digest 2026-10-24: 7 new matches (47 postings scanned, 7 matched your profi
     Lemon.io · remoteok · 2026-10-22 · Worldwide · $50,000 - $150,000
     score 5: python +3, ai +1, contract +1
     https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1137557
-
- 6. Software Engineer AI Coding Tasks
-    Askable · remoteok · 2026-10-17 · Worldwide · $10,000
-    score 5: python +3, ai (title) +2
-    https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538
-
- 7. Software Engineer, AI Coding Tasks
-    Askable · remotive · 2026-10-17 · Worldwide · $1000 per task
-    score 5: python +3, ai (title) +2
-    https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158
 
 [dry run] nothing sent, store digest.sqlite untouched; channels: telegram
