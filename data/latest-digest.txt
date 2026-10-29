@@ -1,19 +1,19 @@
-Jobs digest 2026-10-28: 4 new matches (49 postings scanned, 4 matched your profile)
+Jobs digest 2026-10-29: 4 new matches (50 postings scanned, 4 matched your profile)
 
  1. Senior Software Engineer
     Klardaten · remoteok · 2026-10-25 · Worldwide · $80,000 - $100,000
     score 8: automation +3, integration +2, api +1, ai +1, contract +1
     https://remoteOK.com/remote-jobs/remote-senior-software-engineer-klardaten-1137571
 
- 2. Sales Development Representative - CRM, Conversational AI & Messaging Automation
-    division50 · weworkremotely · 2026-10-22 · Anywhere in the World
-    score 8: automation (title) +6, ai (title) +2
-    https://weworkremotely.com/remote-jobs/division50-sales-development-representative-crm-conversational-ai-messaging-automation
+ 2. Senior Integration Engineer
+    Legion · weworkremotely · 2026-10-29 · Anywhere in the World
+    score 7: automation +3, integration (title) +4
+    https://weworkremotely.com/remote-jobs/legion-senior-integration-engineer
 
- 3. Marketing Automation Manager - Canada, Spain, India
-    Storyblok · weworkremotely · 2026-10-22 · Anywhere in the World
-    score 7: automation (title) +6, ai +1
-    https://weworkremotely.com/remote-jobs/storyblok-marketing-automation-manager-canada-spain-india
+ 3. Senior Back-end Developer
+    Lemon.io · remotive · 2026-10-27 · Europe, USA, Canada, Australia, Singapore, Mexico, Saudi Arabia
+    score 7: python +3, automation +3, ai +1
+    https://remotive.com/remote-jobs/software-development/senior-back-end-developer-2091135
 
  4. Senior DevOps Engineer
     Lemon.io · remoteok · 2026-10-22 · Worldwide · $50,000 - $150,000
