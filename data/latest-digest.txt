@@ -1,4 +1,4 @@
-Jobs digest 2026-10-29: 4 new matches (50 postings scanned, 4 matched your profile)
+Jobs digest 2026-10-30: 3 new matches (49 postings scanned, 3 matched your profile)
 
  1. Senior Software Engineer
     Klardaten · remoteok · 2026-10-25 · Worldwide · $80,000 - $100,000
@@ -14,10 +14,5 @@ Jobs digest 2026-10-29: 4 new matches (50 postings scanned, 4 matched your profi
     Lemon.io · remotive · 2026-10-27 · Europe, USA, Canada, Australia, Singapore, Mexico, Saudi Arabia
     score 7: python +3, automation +3, ai +1
     https://remotive.com/remote-jobs/software-development/senior-back-end-developer-2091135
-
- 4. Senior DevOps Engineer
-    Lemon.io · remoteok · 2026-10-22 · Worldwide · $50,000 - $150,000
-    score 5: python +3, ai +1, contract +1
-    https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1137557
 
 [dry run] nothing sent, store digest.sqlite untouched; channels: telegram
