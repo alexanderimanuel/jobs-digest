@@ -1,4 +1,4 @@
-Jobs digest 2026-10-31: 5 new matches (44 postings scanned, 5 matched your profile)
+Jobs digest 2026-11-01: 6 new matches (42 postings scanned, 6 matched your profile)
 
  1. Cloud Engineer Automation
     Smile Digital Health · remoteok · 2026-10-29 · Toronto, Ontario
@@ -15,12 +15,17 @@ Jobs digest 2026-10-31: 5 new matches (44 postings scanned, 5 matched your profi
     score 8: automation +3, integration +2, api +1, ai +1, contract +1
     https://remoteOK.com/remote-jobs/remote-senior-software-engineer-klardaten-1137571
 
- 4. Senior Integration Engineer
+ 4. Full-Stack Developer
+    Fluence International, Inc. · remotive · 2026-10-29 · Worldwide · $3.5k–$5k/month
+    score 7: automation +3, api +1, ai +1, documentation +2
+    https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165
+
+ 5. Senior Integration Engineer
     Legion · weworkremotely · 2026-10-29 · Anywhere in the World
     score 7: automation +3, integration (title) +4
     https://weworkremotely.com/remote-jobs/legion-senior-integration-engineer
 
- 5. Senior Back-end Developer
+ 6. Senior Back-end Developer
     Lemon.io · remotive · 2026-10-27 · Europe, USA, Canada, Australia, Singapore, Mexico, Saudi Arabia
     score 7: python +3, automation +3, ai +1
     https://remotive.com/remote-jobs/software-development/senior-back-end-developer-2091135
