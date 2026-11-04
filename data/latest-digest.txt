@@ -1,4 +1,4 @@
-Jobs digest 2026-11-03: 4 new matches (42 postings scanned, 4 matched your profile)
+Jobs digest 2026-11-04: 3 new matches (40 postings scanned, 3 matched your profile)
 
  1. Cloud Engineer Automation
     Smile Digital Health · remoteok · 2026-10-29 · Toronto, Ontario
@@ -14,10 +14,5 @@ Jobs digest 2026-11-03: 4 new matches (42 postings scanned, 4 matched your profi
     Legion · weworkremotely · 2026-10-29 · Anywhere in the World
     score 7: automation +3, integration (title) +4
     https://weworkremotely.com/remote-jobs/legion-senior-integration-engineer
-
- 4. Senior Back-end Developer
-    Lemon.io · remotive · 2026-10-27 · Europe, USA, Canada, Australia, Singapore, Mexico, Saudi Arabia
-    score 7: python +3, automation +3, ai +1
-    https://remotive.com/remote-jobs/software-development/senior-back-end-developer-2091135
 
 [dry run] nothing sent, store digest.sqlite untouched; channels: telegram
