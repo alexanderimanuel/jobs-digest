@@ -1,18 +1,28 @@
-Jobs digest 2026-11-04: 3 new matches (40 postings scanned, 3 matched your profile)
+Jobs digest 2026-11-05: 5 new matches (45 postings scanned, 5 matched your profile)
 
  1. Cloud Engineer Automation
     Smile Digital Health · remoteok · 2026-10-29 · Toronto, Ontario
     score 9: python +3, automation (title) +6
     https://remoteOK.com/remote-jobs/remote-cloud-engineer-automation-smile-digital-health-1137600
 
- 2. Full-Stack Developer
+ 2. Operations Expert with Python for AI Supply Chain Task Design
+    Toptal · weworkremotely · 2026-11-04 · Anywhere in the World
+    score 8: python (title) +6, ai (title) +2
+    https://weworkremotely.com/remote-jobs/toptal-operations-expert-with-python-for-ai-supply-chain-task-design
+
+ 3. Full-Stack Developer
     Fluence International, Inc. · remotive · 2026-10-29 · Worldwide · $3.5k–$5k/month
     score 7: automation +3, api +1, ai +1, documentation +2
     https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165
 
- 3. Senior Integration Engineer
+ 4. Senior Integration Engineer
     Legion · weworkremotely · 2026-10-29 · Anywhere in the World
     score 7: automation +3, integration (title) +4
     https://weworkremotely.com/remote-jobs/legion-senior-integration-engineer
+
+ 5. Zoho CRM Developer
+    Appsierra Group · weworkremotely · 2026-11-05 · Anywhere in the World
+    score 5: automation +3, integration +2
+    https://weworkremotely.com/remote-jobs/appsierra-group-zoho-crm-developer
 
 [dry run] nothing sent, store digest.sqlite untouched; channels: telegram
