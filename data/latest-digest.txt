@@ -1,21 +1,31 @@
-Jobs digest 2026-11-06: 4 new matches (49 postings scanned, 4 matched your profile)
+Jobs digest 2026-11-07: 6 new matches (55 postings scanned, 6 matched your profile)
 
  1. Operations Expert with Python for AI Supply Chain Task Design
+    Toptal · remoteok · 2026-11-05 · Anywhere in the World
+    score 8: python (title) +6, ai (title) +2
+    https://remoteOK.com/remote-jobs/remote-operations-expert-with-python-for-ai-supply-chain-task-design-toptal-1137690
+
+ 2. Operations Expert with Python for AI Supply Chain Task Design
     Toptal · weworkremotely · 2026-11-04 · Anywhere in the World
     score 8: python (title) +6, ai (title) +2
     https://weworkremotely.com/remote-jobs/toptal-operations-expert-with-python-for-ai-supply-chain-task-design
 
- 2. Freelance Mechanical CFD Engineer - AI Trainer
+ 3. Freelance Mechanical CFD Engineer - AI Trainer
     Mindrift · weworkremotely · 2026-11-06 · Latin America Only
     score 5: python +3, ai (title) +2
     https://weworkremotely.com/remote-jobs/mindrift-freelance-mechanical-cfd-engineer-ai-trainer
 
- 3. Senior Applied AI Engineer, Document Intelligence
+ 4. ML Inference Engineer â Terminal-Bench Task Designer (vLLM / SGLang / TensorRT-LLM)
+    Toptal · remoteok · 2026-11-05 · Anywhere in the World
+    score 5: llm (title) +4, ai +1
+    https://remoteOK.com/remote-jobs/remote-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm-toptal-1137689
+
+ 5. Senior Applied AI Engineer, Document Intelligence
     Vertican · weworkremotely · 2026-11-05 · Anywhere in the World
     score 5: automation +3, ai (title) +2
     https://weworkremotely.com/remote-jobs/vertican-senior-applied-ai-engineer-document-intelligence
 
- 4. Zoho CRM Developer
+ 6. Zoho CRM Developer
     Appsierra Group · weworkremotely · 2026-11-05 · Anywhere in the World
     score 5: automation +3, integration +2
     https://weworkremotely.com/remote-jobs/appsierra-group-zoho-crm-developer
