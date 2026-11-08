@@ -1,4 +1,4 @@
-Jobs digest 2026-11-07: 6 new matches (55 postings scanned, 6 matched your profile)
+Jobs digest 2026-11-08: 6 new matches (51 postings scanned, 6 matched your profile)
 
  1. Operations Expert with Python for AI Supply Chain Task Design
     Toptal · remoteok · 2026-11-05 · Anywhere in the World
@@ -10,24 +10,24 @@ Jobs digest 2026-11-07: 6 new matches (55 postings scanned, 6 matched your profi
     score 8: python (title) +6, ai (title) +2
     https://weworkremotely.com/remote-jobs/toptal-operations-expert-with-python-for-ai-supply-chain-task-design
 
- 3. Freelance Mechanical CFD Engineer - AI Trainer
+ 3. AI Developer
+    Salvo Software · remoteok · 2026-11-07 · Worldwide
+    score 5: python +3, ai (title) +2
+    https://remoteOK.com/remote-jobs/remote-ai-developer-salvo-software-1137701
+
+ 4. Freelance Mechanical CFD Engineer - AI Trainer
     Mindrift · weworkremotely · 2026-11-06 · Latin America Only
     score 5: python +3, ai (title) +2
     https://weworkremotely.com/remote-jobs/mindrift-freelance-mechanical-cfd-engineer-ai-trainer
 
- 4. ML Inference Engineer â Terminal-Bench Task Designer (vLLM / SGLang / TensorRT-LLM)
+ 5. ML Inference Engineer â Terminal-Bench Task Designer (vLLM / SGLang / TensorRT-LLM)
     Toptal · remoteok · 2026-11-05 · Anywhere in the World
     score 5: llm (title) +4, ai +1
     https://remoteOK.com/remote-jobs/remote-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm-toptal-1137689
 
- 5. Senior Applied AI Engineer, Document Intelligence
+ 6. Senior Applied AI Engineer, Document Intelligence
     Vertican · weworkremotely · 2026-11-05 · Anywhere in the World
     score 5: automation +3, ai (title) +2
     https://weworkremotely.com/remote-jobs/vertican-senior-applied-ai-engineer-document-intelligence
-
- 6. Zoho CRM Developer
-    Appsierra Group · weworkremotely · 2026-11-05 · Anywhere in the World
-    score 5: automation +3, integration +2
-    https://weworkremotely.com/remote-jobs/appsierra-group-zoho-crm-developer
 
 [dry run] nothing sent, store digest.sqlite untouched; channels: telegram
