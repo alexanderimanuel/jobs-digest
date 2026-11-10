@@ -1,4 +1,4 @@
-Jobs digest 2026-11-09: 5 new matches (53 postings scanned, 5 matched your profile)
+Jobs digest 2026-11-10: 4 new matches (55 postings scanned, 4 matched your profile)
 
  1. Operations Expert with Python for AI Supply Chain Task Design
     Toptal · remoteok · 2026-11-05 · Anywhere in the World
@@ -10,17 +10,12 @@ Jobs digest 2026-11-09: 5 new matches (53 postings scanned, 5 matched your profi
     score 5: python +3, ai (title) +2
     https://remoteOK.com/remote-jobs/remote-ai-developer-salvo-software-1137701
 
- 3. Freelance Mechanical CFD Engineer - AI Trainer
-    Mindrift · weworkremotely · 2026-11-06 · Latin America Only
-    score 5: python +3, ai (title) +2
-    https://weworkremotely.com/remote-jobs/mindrift-freelance-mechanical-cfd-engineer-ai-trainer
-
- 4. ML Inference Engineer â Terminal-Bench Task Designer (vLLM / SGLang / TensorRT-LLM)
+ 3. ML Inference Engineer â Terminal-Bench Task Designer (vLLM / SGLang / TensorRT-LLM)
     Toptal · remoteok · 2026-11-05 · Anywhere in the World
     score 5: llm (title) +4, ai +1
     https://remoteOK.com/remote-jobs/remote-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm-toptal-1137689
 
- 5. Senior Applied AI Engineer, Document Intelligence
+ 4. Senior Applied AI Engineer, Document Intelligence
     Vertican · weworkremotely · 2026-11-05 · Anywhere in the World
     score 5: automation +3, ai (title) +2
     https://weworkremotely.com/remote-jobs/vertican-senior-applied-ai-engineer-document-intelligence
