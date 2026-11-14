@@ -1,16 +1,21 @@
-Jobs digest 2026-11-13: 3 new matches (47 postings scanned, 3 matched your profile)
+Jobs digest 2026-11-14: 4 new matches (46 postings scanned, 4 matched your profile)
 
- 1. Senior React Full-stack Developer
+ 1. Senior Data Engineer
+    Lemon.io · remotive · 2026-11-11 · LATAM, Europe, USA, Canada, APAC
+    score 8: python +3, automation +3, ai +1, contract +1
+    https://remotive.com/remote-jobs/data/senior-data-engineer-2091137
+
+ 2. Senior React Full-stack Developer
     Lemon.io · remotive · 2026-11-10 · LATAM, Europe, USA, Canada, APAC
     score 8: python +3, automation +3, ai +1, contract +1
     https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091136
 
- 2. Senior Agentic AI Engineer NDA
+ 3. Senior Agentic AI Engineer NDA
     GT · remoteok · 2026-11-09 · Warsaw
     score 5: python +3, ai (title) +2
     https://remoteOK.com/remote-jobs/remote-senior-agentic-ai-engineer-nda-gt-1137710
 
- 3. AI Developer
+ 4. AI Developer
     Salvo Software · remoteok · 2026-11-07 · Worldwide
     score 5: python +3, ai (title) +2
     https://remoteOK.com/remote-jobs/remote-ai-developer-salvo-software-1137701
