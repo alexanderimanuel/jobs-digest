@@ -1,13 +1,23 @@
-Jobs digest 2026-11-17: 2 new matches (40 postings scanned, 2 matched your profile)
+Jobs digest 2026-11-18: 4 new matches (44 postings scanned, 4 matched your profile)
 
  1. Senior Data Engineer
     Lemon.io · remotive · 2026-11-11 · LATAM, Europe, USA, Canada, APAC
     score 8: python +3, automation +3, ai +1, contract +1
     https://remotive.com/remote-jobs/data/senior-data-engineer-2091137
 
- 2. Senior React Full-stack Developer
-    Lemon.io · remotive · 2026-11-10 · LATAM, Europe, USA, Canada, APAC
-    score 8: python +3, automation +3, ai +1, contract +1
-    https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091136
+ 2. AI Creative Engineer (Social Media)
+    Elvoro · weworkremotely · 2026-11-18 · Anywhere in the World
+    score 6: python +3, ai (title) +2, contract +1
+    https://weworkremotely.com/remote-jobs/elvoro-ai-creative-engineer-social-media
+
+ 3. Code Reviewer - C++/C# (LATAM)
+    Careerflow.ai · weworkremotely · 2026-11-17 · Latin America Only
+    score 5: automation +3, ai +1, contract +1
+    https://weworkremotely.com/remote-jobs/careerflow-ai-code-reviewer-c-c-latam
+
+ 4. Code Reviewer - Golang
+    Careerflow.ai · weworkremotely · 2026-11-17 · Latin America Only
+    score 5: automation +3, ai +1, contract +1
+    https://weworkremotely.com/remote-jobs/careerflow-ai-code-reviewer-golang
 
 [dry run] nothing sent, store digest.sqlite untouched; channels: telegram
