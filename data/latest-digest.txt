@@ -1,13 +1,13 @@
-Jobs digest 2026-11-19: 2 new matches (48 postings scanned, 2 matched your profile)
+Jobs digest 2026-11-20: 2 new matches (44 postings scanned, 2 matched your profile)
 
  1. AI Creative Engineer (Social Media)
     Elvoro · weworkremotely · 2026-11-18 · Anywhere in the World
     score 6: python +3, ai (title) +2, contract +1
     https://weworkremotely.com/remote-jobs/elvoro-ai-creative-engineer-social-media
 
- 2. AI/ML Engineer - Production AI & LLM Systems (India)
-    Volga Partners · weworkremotely · 2026-11-18 · Asia Only
-    score 6: llm (title) +4, ai (title) +2
-    https://weworkremotely.com/remote-jobs/volga-partners-ai-ml-engineer-production-ai-llm-systems-india
+ 2. Software Engineer AI Coding Tasks
+    Askable · remoteok · 2026-11-19 · Worldwide · $10,000
+    score 5: python +3, ai (title) +2
+    https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137808
 
 [dry run] nothing sent, store digest.sqlite untouched; channels: telegram
