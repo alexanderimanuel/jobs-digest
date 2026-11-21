@@ -1,11 +1,26 @@
-Jobs digest 2026-11-20: 2 new matches (44 postings scanned, 2 matched your profile)
+Jobs digest 2026-11-21: 5 new matches (69 postings scanned, 5 matched your profile)
 
- 1. AI Creative Engineer (Social Media)
+ 1. Senior QA Automation Developer (Platform)
+    Upgrade · weworkremotely · 2026-11-21 · Anywhere in the World
+    score 12: automation (title) +6, qa automation (title) +6
+    https://weworkremotely.com/remote-jobs/upgrade-senior-qa-automation-developer-platform
+
+ 2. Senior QA Automation Engineer (HELOC)
+    Upgrade · weworkremotely · 2026-11-21 · Anywhere in the World
+    score 12: automation (title) +6, qa automation (title) +6
+    https://weworkremotely.com/remote-jobs/upgrade-senior-qa-automation-engineer-heloc
+
+ 3. Senior QA Automation Developer (HELOC)
+    Upgrade · weworkremotely · 2026-11-20 · Anywhere in the World
+    score 12: automation (title) +6, qa automation (title) +6
+    https://weworkremotely.com/remote-jobs/upgrade-senior-qa-automation-developer-heloc
+
+ 4. AI Creative Engineer (Social Media)
     Elvoro · weworkremotely · 2026-11-18 · Anywhere in the World
     score 6: python +3, ai (title) +2, contract +1
     https://weworkremotely.com/remote-jobs/elvoro-ai-creative-engineer-social-media
 
- 2. Software Engineer AI Coding Tasks
+ 5. Software Engineer AI Coding Tasks
     Askable · remoteok · 2026-11-19 · Worldwide · $10,000
     score 5: python +3, ai (title) +2
     https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137808
