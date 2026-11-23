@@ -1,26 +1,11 @@
-Jobs digest 2026-11-22: 5 new matches (63 postings scanned, 5 matched your profile)
+Jobs digest 2026-11-23: 2 new matches (56 postings scanned, 2 matched your profile)
 
- 1. Senior QA Automation Engineer (Platform)
-    Upgrade · weworkremotely · 2026-11-22 · Anywhere in the World
-    score 12: automation (title) +6, qa automation (title) +6
-    https://weworkremotely.com/remote-jobs/upgrade-senior-qa-automation-engineer-platform
-
- 2. Senior QA Automation Engineer - HELOC (LATAM)
-    Upgrade · weworkremotely · 2026-11-22 · Anywhere in the World
-    score 12: automation (title) +6, qa automation (title) +6
-    https://weworkremotely.com/remote-jobs/upgrade-senior-qa-automation-engineer-heloc-latam
-
- 3. Backend Engineer (Python),AI Engineering: Agent Foundations
+ 1. Backend Engineer (Python),AI Engineering: Agent Foundations
     GitLab · weworkremotely · 2026-11-21 · Anywhere in the World
     score 8: python (title) +6, ai (title) +2
     https://weworkremotely.com/remote-jobs/gitlab-backend-engineer-python-ai-engineering-agent-foundations
 
- 4. AI Creative Engineer (Social Media)
-    Elvoro · weworkremotely · 2026-11-18 · Anywhere in the World
-    score 6: python +3, ai (title) +2, contract +1
-    https://weworkremotely.com/remote-jobs/elvoro-ai-creative-engineer-social-media
-
- 5. Senior Applied AI Engineer
+ 2. Senior Applied AI Engineer
     Wemolo · remoteok · 2026-11-21 · MÃ¼nchen
     score 5: python +3, ai (title) +2
     https://remoteOK.com/remote-jobs/remote-senior-applied-ai-engineer-wemolo-1137917
