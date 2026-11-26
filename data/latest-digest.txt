@@ -1,8 +1,5 @@
-Jobs digest 2026-11-25: 1 new match (59 postings scanned, 1 matched your profile)
+Jobs digest 2026-11-26: 0 new matches (58 postings scanned, 0 matched your profile)
 
- 1. Senior Applied AI Engineer
-    Wemolo · remoteok · 2026-11-21 · MÃ¼nchen
-    score 5: python +3, ai (title) +2
-    https://remoteOK.com/remote-jobs/remote-senior-applied-ai-engineer-wemolo-1137917
+Nothing new today.
 
 [dry run] nothing sent, store digest.sqlite untouched; channels: telegram
